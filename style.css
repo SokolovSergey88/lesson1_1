@@ -1,0 +1,15 @@
+html, body {
+    scroll-behavior: smooth;
+}
+h2  {
+    background: silver;
+}
+/*#bart {*/
+/*    color: #9c6b6b;*/
+/*}*/
+.xxx {
+    color: rgb(162, 129, 129);
+}
+.pic {
+    width: 300px;
+}
